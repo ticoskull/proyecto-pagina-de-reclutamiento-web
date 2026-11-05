@@ -1,0 +1,19 @@
+ARENALSEC - Plataforma de empleo en ciberseguridad (Costa Rica)
+
+ARCHIVOS
+- index.html ........................ Version animada completa. Funciona en cualquier navegador
+                                      (doble clic). El registro es solo demostracion.
+- version-con-base-de-datos.html .... Version con registro, ofertas, postulaciones y alertas
+                                      reales. SOLO funciona dentro de claude.ai (usa su base de datos).
+- version-1-inicial.html ............ Primera version, sin animaciones.
+- logo.svg .......................... Logo (escudo + volcan).
+
+PALETA: naranja #ff7a2f, rosado #ff3d6e, cian #22d3ee, fondo oscuro #070c18.
+
+PROXIMOS PASOS: panel de empresas, perfil de talento, precios y planes,
+paginas legales (privacidad / terminos), dominio propio y base de datos
+profesional (ej. Supabase) para lanzamiento publico. Ley 8968 de Costa Rica.
+
+Enlace de la pagina publicada: https://claude.ai/artifact/84wf7Nbj4soypXAaiH4GDi
+
+ACTUALIZACION: la version con base de datos incluye perfil completo (habilidades, certificaciones, enlace, tarifa freelance), panel de empresa para ver postulantes y cambiar su estado, busqueda y filtros, seccion de privacidad, aprendizaje, planes y textos legales en borrador (requieren revision legal).
